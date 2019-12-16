@@ -1,2 +1,2 @@
 # myMaps
-Belajar menampilkan map menggunakan bahasa pemrograman java
+Soure code untuk menampilkan map menggunakan bahasa pemrograman java di android studio
